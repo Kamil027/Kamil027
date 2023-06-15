@@ -1,7 +1,8 @@
-<h1 align="left">Hey,<img src="https://media4.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=ecf05e47alcbthawoq47e96qi1yu15fqyew94vhk5kcxfrz2&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Spider-Man Marvel Sticker by Spider-Man: Across The Spider-Verse" style="height: 45px;  left: 0px; top: 0px;"> What's up? </h1>
+<h1 align="left">Hey,<img src="https://media0.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif?cid=ecf05e47gsynbkrq69kunhqeb780rmjhoxlfbtfidraqbctd&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="wave sticker by WeTransfer"  style="height: 45px;  left: 0px; top: 0px;"> What's up? </h1>
 <hr>
-<h3 align="left">My name is Kamil and busy with programming. I'm from the Khachmaz City of Azerbaijan<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVlMzA5YTdjNjRlMzZiZmZjZWE2Y2UyMzQ0NjUwZWQxZmE3NTZlMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zW2izzVfdRI2lITcuk/giphy.gif" alt="Freedom Azerbaijan Sticker" style="height:30px; left: 0px; top: 0px;">
-</h3>
+<h3 align="left">My name is Kamil and busy with programming. I'm from the Khachmaz City of Azerbaijan </h3>
+
+
 
 
 <hr>
