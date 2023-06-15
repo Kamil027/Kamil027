@@ -1,6 +1,6 @@
-<h1 align="left">Hey,<img src="https://media4.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=ecf05e47alcbthawoq47e96qi1yu15fqyew94vhk5kcxfrz2&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Spider-Man Marvel Sticker by Spider-Man: Across The Spider-Verse" style="height: 45;  left: 0px; top: 0px;"> What's up? </h1>
+<h1 align="left">Hey,<img src="https://media4.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif?cid=ecf05e47alcbthawoq47e96qi1yu15fqyew94vhk5kcxfrz2&amp;ep=v1_stickers_search&amp;rid=giphy.gif&amp;ct=s" alt="Spider-Man Marvel Sticker by Spider-Man: Across The Spider-Verse" style="height: 45px;  left: 0px; top: 0px;"> What's up? </h1>
 <hr>
-<h3 align="left">My name is Kamil and busy with programming. I'm from the Khachmaz City of Azerbaijan<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVlMzA5YTdjNjRlMzZiZmZjZWE2Y2UyMzQ0NjUwZWQxZmE3NTZlMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zW2izzVfdRI2lITcuk/giphy.gif" alt="Freedom Azerbaijan Sticker" style="height:30; left: 0px; top: 0px;">
+<h3 align="left">My name is Kamil and busy with programming. I'm from the Khachmaz City of Azerbaijan<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVlMzA5YTdjNjRlMzZiZmZjZWE2Y2UyMzQ0NjUwZWQxZmE3NTZlMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zW2izzVfdRI2lITcuk/giphy.gif" alt="Freedom Azerbaijan Sticker" style="height:30px; left: 0px; top: 0px;">
 </h3>
 
 
@@ -18,7 +18,6 @@
 <h3 align="left"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>Languages and Tools:</h3>
 
 <p align="left"> 
-
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"></a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"></a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"></a>
