@@ -15,7 +15,7 @@
     <li>📚 I'm currently learning to program.</li>
 </ul>
 </p>
-
+<hr>
 <h3 align="left"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>Languages and Tools:</h3>
 
 <p align="left"> 
