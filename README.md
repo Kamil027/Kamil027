@@ -11,7 +11,6 @@
 <p align="left">
 <ul>
     <li>🎲 I am 20 years old and I live in Baku.</li>
-    <li>🎯 Goals: earn in dollars, to be a good programmer.</li>
     <li>📚 I'm currently learning to program.</li>
 </ul>
 </p>
