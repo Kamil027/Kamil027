@@ -12,6 +12,7 @@
 <ul>
     <li>🎲 I am 20 years old and I live in Baku.</li>
     <li>📚 I'm currently learning to program.</li>
+    <li>💡 Why am I programming? --> Because I love this job ❤️. in fact: 🤑🤑🤑 </li>
 </ul>
 </p>
 <hr>
