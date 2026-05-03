@@ -10,7 +10,7 @@
 <h3 align="left">About me:</h3>
 <p align="left">
 <ul>
-    <li>🎲 I am 22 years old and I live in Baku.</li>
+    <li>🎲 I am 23 years old and I live in Baku.</li>
     <li>📚 I'm currently learning to program.</li>
 </ul>
 </p>
